@@ -114,22 +114,12 @@ streamlit run main.py
 
 ## 📸 Application Preview
 
-> Add a screenshot of your deployed Streamlit application here.
+<h2>📸 Application Preview</h2>
 
-Example:
-
-```text
-images/
-└── app_preview.png
-```
-
-Then include:
-
-```markdown
-![Application Preview](images/app_preview.png)
-```
-
----
+<p align="center">
+  <img src="images/home.png" width="48%">
+  <img src="images/prediction.png" width="48%">
+</p>
 
 ## 🔮 Future Improvements
 
