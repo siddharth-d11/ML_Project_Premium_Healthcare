@@ -98,6 +98,10 @@ Run the application
 streamlit run app/app.py
 ```
 
+## 🚀 Live Demo
+
+🔗 https://siddangi-ml-project-premium-prediction.streamlit.app/
+
 ## 🔮 Future Improvements
 
 * Deploy the application to the cloud
