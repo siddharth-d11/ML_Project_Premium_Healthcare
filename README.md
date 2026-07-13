@@ -112,8 +112,6 @@ streamlit run main.py
 
 ---
 
-## 📸 Application Preview
-
 <h2>📸 Application Preview</h2>
 
 <p align="center">
